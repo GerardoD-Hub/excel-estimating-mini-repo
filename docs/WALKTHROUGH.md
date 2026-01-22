@@ -4,7 +4,7 @@ This repository is an Excel estimating workflow built for portfolio/demo purpose
 
 ## 1) Open the workbook
 Open:
-- `assets/Excel_Estimating_MiniRepo_Robust_EN.xlsx`
+- `assets/Excel_EstimMiniRepo_Robust_EN_LocaleSafe.xlsx`
 
 If Excel prompts about external links/macros:
 - Choose **Do not enable macros** (there are no macros)
