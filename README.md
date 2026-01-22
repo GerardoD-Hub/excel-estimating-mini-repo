@@ -1,4 +1,5 @@
 ## Quick links
+> Locale note: Excel displays formulas in your language automatically (e.g., VLOOKUP shows as BUSCARV in Spanish). The LocaleSafe file is included to avoid any regional issues.
 
 - **Download workbook (recommended, locale-safe):** `assets/Excel_EstimMiniRepo_Robust_EN_LocaleSafe.xlsx`
 - **Download workbook (original):** `assets/Excel_EstimMiniRepo_Robust_EN.xlsx`
