@@ -1,3 +1,9 @@
+## Quick links
+
+- **Download workbook (recommended, locale-safe):** `assets/Excel_EstimMiniRepo_Robust_EN_LocaleSafe.xlsx`
+- **Download workbook (original):** `assets/Excel_EstimMiniRepo_Robust_EN.xlsx`
+- **2-minute walkthrough:** `docs/WALKTHROUGH.md`
+- **Demo video script:** `docs/VIDEO_SCRIPT.md`
 # Excel Estimating Mini-Repo (Robust Assemblies)
 - **Download workbook:** `assets/Excel_Estimating_MiniRepo_Robust_EN.xlsx`  
 - **2-minute walkthrough:** `docs/WALKTHROUGH.md`  
