@@ -1,4 +1,7 @@
 # Excel Estimating Mini-Repo (Robust Assemblies)
+- **Download workbook:** `assets/Excel_Estimating_MiniRepo_Robust_EN.xlsx`  
+- **2-minute walkthrough:** `docs/WALKTHROUGH.md`  
+- **Demo video script:** `docs/VIDEO_SCRIPT.md`
 
 A small, portfolio-friendly Excel estimating workflow that demonstrates:
 
