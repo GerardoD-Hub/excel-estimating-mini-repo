@@ -2,9 +2,11 @@
 > Locale note: Excel displays formulas in your language automatically (e.g., VLOOKUP shows as BUSCARV in Spanish). The LocaleSafe file is included to avoid any regional issues.
 
 - **Download workbook (recommended, locale-safe):** `assets/Excel_EstimMiniRepo_Robust_EN_LocaleSafe.xlsx`
-- **Download workbook (original):** `assets/Excel_EstimMiniRepo_Robust_EN.xlsx`
+- **Download workbook (original):** `assets/Excel_Estimating_MiniRepo_Robust_EN.xlsx`
 - **2-minute walkthrough:** `docs/WALKTHROUGH.md`
 - **Demo video script:** `docs/VIDEO_SCRIPT.md`
+  
+**How to review (60 seconds):** Open the workbook → go to `Assembly_Builder` → select an assembly + set Multiplier → copy Item_Code & Qty into `Estimate` → review totals.
 # Excel Estimating Mini-Repo (Robust Assemblies)
 
 A small, portfolio-friendly Excel estimating workflow that demonstrates:
@@ -20,7 +22,7 @@ A small, portfolio-friendly Excel estimating workflow that demonstrates:
 
 ## Quick start (2 minutes)
 
-1. Open: `assets/Excel_Estimating_MiniRepo_Robust_EN.xlsx`
+1. Open: `assets/Excel_EstimMiniRepo_Robust_EN_LocaleSafe.xlsx`
 2. Go to **Inputs**  
    - Set **Overhead Method** (Percent or Weekly)  
    - Adjust **Overhead %, Profit %, Tax %, Duration**
