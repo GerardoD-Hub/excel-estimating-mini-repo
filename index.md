@@ -1,8 +1,12 @@
 # Excel Estimating Mini-Repo (Robust Assemblies)
 
 ## Download (recommended)
-➡️ **Download the workbook (Excel):**  
-https://raw.githubusercontent.com/GerardoD-Hub/excel-estimating-mini-repo/main/assets/Excel_EstimMiniRepo_Robust_EN_LocaleSafe.xlsx
+
+✅ **Step 1:** Click to download the Excel workbook  
+👉 [Download the workbook (Excel .xlsx)](https://raw.githubusercontent.com/GerardoD-Hub/excel-estimating-mini-repo/main/assets/Excel_EstimMiniRepo_Robust_EN_LocaleSafe.xlsx)
+
+✅ **Step 2:** Open the downloaded file in Microsoft Excel (365 or desktop).
+
 
 ## How to use (60 seconds)
 1) Open the workbook in Excel
