@@ -1,0 +1,8 @@
+# Excel
+~$*.xlsx
+*.tmp
+*.bak
+
+# OS
+.DS_Store
+Thumbs.db
